@@ -1,0 +1,1 @@
+import{a as o,r as t,L as e}from"./catalog-D82IL5fp.js";async function l(a={}){const s=await o.get(`${t()}public/catalog`,{params:{...a,...a.in_stock_only?{in_stock_only:"true"}:{}}});return e.parse(s.data)}export{l as listPublicCatalogService};
