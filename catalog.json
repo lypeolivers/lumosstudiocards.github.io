@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:50:15.112Z",
+  "generated_at": "2026-11-19T16:06:12.100Z",
   "config": {
     "whatsapp_phone": "5583993602323",
     "off_catalog_price": 45,
@@ -9,11 +9,11 @@
       "character": 25,
       "token": 25,
       "commander": 40,
-      "pokemon": 25,
-      "supporter": 25,
-      "item": 25,
-      "stadium": 25,
-      "tool": 25,
+      "pokemon": 35,
+      "supporter": 35,
+      "item": 35,
+      "stadium": 35,
+      "tool": 35,
       "fab_token": 25,
       "hero": 40,
       "equipment": 25,
@@ -396,18 +396,6 @@
       "units_sold": 0
     },
     {
-      "print_model_id": 350,
-      "model_name": "#01",
-      "image_url": "media/020af50b-398c-40b7-bc06-be755b0c7858-684f9db113c5.jpg",
-      "on_hand": 0,
-      "card_id": 32,
-      "card_name": "Enel",
-      "card_edition": "OP15",
-      "tcg": "one_piece",
-      "card_type": "leader",
-      "units_sold": 0
-    },
-    {
       "print_model_id": 261,
       "model_name": "#01",
       "image_url": "media/ca1201f9-4889-4dee-92a9-5a638905cf79-a80b225c8416.jpg",
@@ -420,16 +408,16 @@
       "units_sold": 3
     },
     {
-      "print_model_id": 326,
-      "model_name": "#02",
-      "image_url": "media/be2123fa-fdde-4417-8adc-2806e7cdb8df-d419e7199044.jpg",
+      "print_model_id": 350,
+      "model_name": "#01",
+      "image_url": "media/020af50b-398c-40b7-bc06-be755b0c7858-684f9db113c5.jpg",
       "on_hand": 0,
-      "card_id": 137,
+      "card_id": 32,
       "card_name": "Enel",
-      "card_edition": "OP05",
+      "card_edition": "OP15",
       "tcg": "one_piece",
       "card_type": "leader",
-      "units_sold": 1
+      "units_sold": 0
     },
     {
       "print_model_id": 359,
@@ -442,6 +430,18 @@
       "tcg": "one_piece",
       "card_type": "leader",
       "units_sold": 0
+    },
+    {
+      "print_model_id": 326,
+      "model_name": "#02",
+      "image_url": "media/be2123fa-fdde-4417-8adc-2806e7cdb8df-d419e7199044.jpg",
+      "on_hand": 0,
+      "card_id": 137,
+      "card_name": "Enel",
+      "card_edition": "OP05",
+      "tcg": "one_piece",
+      "card_type": "leader",
+      "units_sold": 1
     },
     {
       "print_model_id": 48,
@@ -1044,30 +1044,6 @@
       "units_sold": 1
     },
     {
-      "print_model_id": 365,
-      "model_name": "#01",
-      "image_url": "media/8dc8c63c-2428-4f02-a0c7-a71826354714-bf4f4dc47ce9.jpg",
-      "on_hand": 0,
-      "card_id": 149,
-      "card_name": "Monkey.D.Luffy",
-      "card_edition": "ST13",
-      "tcg": "one_piece",
-      "card_type": "leader",
-      "units_sold": 0
-    },
-    {
-      "print_model_id": 238,
-      "model_name": "#01",
-      "image_url": "media/f272b681-685e-4884-9790-4626e1c4b979-53b3bb40da30.jpg",
-      "on_hand": 0,
-      "card_id": 96,
-      "card_name": "Monkey.D.Luffy",
-      "card_edition": "EB02",
-      "tcg": "one_piece",
-      "card_type": "leader",
-      "units_sold": 1
-    },
-    {
       "print_model_id": 64,
       "model_name": "#01",
       "image_url": "media/be9990c6-5359-4727-80b2-b263a6901a8e-8cbd4b6594ce.jpg",
@@ -1080,40 +1056,16 @@
       "units_sold": 0
     },
     {
-      "print_model_id": 84,
+      "print_model_id": 178,
       "model_name": "#01",
-      "image_url": "media/a5c8f4bb-45f2-41cc-91f8-7eac962bc1b4-517340b2b625.jpg",
+      "image_url": "media/39522531-82ce-488b-989f-b565736c9211-719e9e754f24.jpg",
       "on_hand": 0,
-      "card_id": 45,
+      "card_id": 73,
       "card_name": "Monkey.D.Luffy",
-      "card_edition": "ST10",
+      "card_edition": "OP17",
       "tcg": "one_piece",
       "card_type": "leader",
-      "units_sold": 1
-    },
-    {
-      "print_model_id": 305,
-      "model_name": "#01",
-      "image_url": "media/73451260-df47-4637-a838-c54270fc1948-7e90bb6e9a25.jpg",
-      "on_hand": 0,
-      "card_id": 143,
-      "card_name": "Monkey.D.Luffy",
-      "card_edition": "ST21",
-      "tcg": "one_piece",
-      "card_type": "leader",
-      "units_sold": 1
-    },
-    {
-      "print_model_id": 366,
-      "model_name": "#01",
-      "image_url": "media/d06e98c3-fa1f-432f-bf0e-a7028c59a710-1314133523ff.jpg",
-      "on_hand": 0,
-      "card_id": 50,
-      "card_name": "Monkey.D.Luffy",
-      "card_edition": "OP09",
-      "tcg": "one_piece",
-      "card_type": "leader",
-      "units_sold": 1
+      "units_sold": 2
     },
     {
       "print_model_id": 370,
@@ -1140,6 +1092,18 @@
       "units_sold": 1
     },
     {
+      "print_model_id": 238,
+      "model_name": "#01",
+      "image_url": "media/f272b681-685e-4884-9790-4626e1c4b979-53b3bb40da30.jpg",
+      "on_hand": 0,
+      "card_id": 96,
+      "card_name": "Monkey.D.Luffy",
+      "card_edition": "EB02",
+      "tcg": "one_piece",
+      "card_type": "leader",
+      "units_sold": 1
+    },
+    {
       "print_model_id": 164,
       "model_name": "#01",
       "image_url": "media/73c9cc38-59ca-4eca-8485-7382f866150d-d1af130df98a.jpg",
@@ -1152,25 +1116,61 @@
       "units_sold": 2
     },
     {
-      "print_model_id": 178,
+      "print_model_id": 84,
       "model_name": "#01",
-      "image_url": "media/39522531-82ce-488b-989f-b565736c9211-719e9e754f24.jpg",
-      "on_hand": 0,
-      "card_id": 73,
-      "card_name": "Monkey.D.Luffy",
-      "card_edition": "OP17",
-      "tcg": "one_piece",
-      "card_type": "leader",
-      "units_sold": 2
-    },
-    {
-      "print_model_id": 371,
-      "model_name": "#02",
-      "image_url": "media/974bdadc-1e1f-455e-b1bf-425f99cc787a-429c8902f9e7.jpg",
+      "image_url": "media/a5c8f4bb-45f2-41cc-91f8-7eac962bc1b4-517340b2b625.jpg",
       "on_hand": 0,
       "card_id": 45,
       "card_name": "Monkey.D.Luffy",
       "card_edition": "ST10",
+      "tcg": "one_piece",
+      "card_type": "leader",
+      "units_sold": 1
+    },
+    {
+      "print_model_id": 305,
+      "model_name": "#01",
+      "image_url": "media/73451260-df47-4637-a838-c54270fc1948-7e90bb6e9a25.jpg",
+      "on_hand": 0,
+      "card_id": 143,
+      "card_name": "Monkey.D.Luffy",
+      "card_edition": "ST21",
+      "tcg": "one_piece",
+      "card_type": "leader",
+      "units_sold": 1
+    },
+    {
+      "print_model_id": 365,
+      "model_name": "#01",
+      "image_url": "media/8dc8c63c-2428-4f02-a0c7-a71826354714-bf4f4dc47ce9.jpg",
+      "on_hand": 0,
+      "card_id": 149,
+      "card_name": "Monkey.D.Luffy",
+      "card_edition": "ST13",
+      "tcg": "one_piece",
+      "card_type": "leader",
+      "units_sold": 0
+    },
+    {
+      "print_model_id": 366,
+      "model_name": "#01",
+      "image_url": "media/d06e98c3-fa1f-432f-bf0e-a7028c59a710-1314133523ff.jpg",
+      "on_hand": 0,
+      "card_id": 50,
+      "card_name": "Monkey.D.Luffy",
+      "card_edition": "OP09",
+      "tcg": "one_piece",
+      "card_type": "leader",
+      "units_sold": 1
+    },
+    {
+      "print_model_id": 327,
+      "model_name": "#02",
+      "image_url": "media/422a82e7-23cd-43a6-b6a1-02ed8c9cd929-84e64ca11596.jpg",
+      "on_hand": 0,
+      "card_id": 149,
+      "card_name": "Monkey.D.Luffy",
+      "card_edition": "ST13",
       "tcg": "one_piece",
       "card_type": "leader",
       "units_sold": 1
@@ -1188,16 +1188,16 @@
       "units_sold": 2
     },
     {
-      "print_model_id": 327,
+      "print_model_id": 210,
       "model_name": "#02",
-      "image_url": "media/422a82e7-23cd-43a6-b6a1-02ed8c9cd929-84e64ca11596.jpg",
+      "image_url": "media/f92a731b-d1b0-415f-bd26-d2b5b763c9df-7112dc1211da.jpg",
       "on_hand": 0,
-      "card_id": 149,
+      "card_id": 73,
       "card_name": "Monkey.D.Luffy",
-      "card_edition": "ST13",
+      "card_edition": "OP17",
       "tcg": "one_piece",
       "card_type": "leader",
-      "units_sold": 1
+      "units_sold": 8
     },
     {
       "print_model_id": 79,
@@ -1212,28 +1212,16 @@
       "units_sold": 0
     },
     {
-      "print_model_id": 210,
+      "print_model_id": 371,
       "model_name": "#02",
-      "image_url": "media/f92a731b-d1b0-415f-bd26-d2b5b763c9df-7112dc1211da.jpg",
+      "image_url": "media/974bdadc-1e1f-455e-b1bf-425f99cc787a-429c8902f9e7.jpg",
       "on_hand": 0,
-      "card_id": 73,
+      "card_id": 45,
       "card_name": "Monkey.D.Luffy",
-      "card_edition": "OP17",
+      "card_edition": "ST10",
       "tcg": "one_piece",
       "card_type": "leader",
-      "units_sold": 8
-    },
-    {
-      "print_model_id": 78,
-      "model_name": "#03",
-      "image_url": "media/e7fc3f21-eb5e-4f21-a4f6-c670523f0e06-4b1a6e7ca1f9.jpg",
-      "on_hand": 0,
-      "card_id": 44,
-      "card_name": "Monkey.D.Luffy",
-      "card_edition": "OP16",
-      "tcg": "one_piece",
-      "card_type": "leader",
-      "units_sold": 0
+      "units_sold": 1
     },
     {
       "print_model_id": 294,
@@ -1246,6 +1234,18 @@
       "tcg": "one_piece",
       "card_type": "leader",
       "units_sold": 1
+    },
+    {
+      "print_model_id": 78,
+      "model_name": "#03",
+      "image_url": "media/e7fc3f21-eb5e-4f21-a4f6-c670523f0e06-4b1a6e7ca1f9.jpg",
+      "on_hand": 0,
+      "card_id": 44,
+      "card_name": "Monkey.D.Luffy",
+      "card_edition": "OP16",
+      "tcg": "one_piece",
+      "card_type": "leader",
+      "units_sold": 0
     },
     {
       "print_model_id": 118,
@@ -1329,7 +1329,7 @@
       "card_edition": "OP18",
       "tcg": "one_piece",
       "card_type": "leader",
-      "units_sold": 4
+      "units_sold": 5
     },
     {
       "print_model_id": 318,
@@ -1368,18 +1368,6 @@
       "units_sold": 2
     },
     {
-      "print_model_id": 330,
-      "model_name": "#01",
-      "image_url": "media/7734beb1-ebca-4924-8bb5-30a006efe475-60da35dd0500.jpg",
-      "on_hand": 0,
-      "card_id": 148,
-      "card_name": "Nami",
-      "card_edition": "P",
-      "tcg": "one_piece",
-      "card_type": "leader",
-      "units_sold": 1
-    },
-    {
       "print_model_id": 14,
       "model_name": "#01",
       "image_url": "media/17653d10-edf3-483b-a3a1-81d6fec5dc15-7a80c57e6b72.jpg",
@@ -1390,6 +1378,18 @@
       "tcg": "one_piece",
       "card_type": "leader",
       "units_sold": 0
+    },
+    {
+      "print_model_id": 330,
+      "model_name": "#01",
+      "image_url": "media/7734beb1-ebca-4924-8bb5-30a006efe475-60da35dd0500.jpg",
+      "on_hand": 0,
+      "card_id": 148,
+      "card_name": "Nami",
+      "card_edition": "P",
+      "tcg": "one_piece",
+      "card_type": "leader",
+      "units_sold": 1
     },
     {
       "print_model_id": 55,
@@ -1464,18 +1464,6 @@
       "units_sold": 0
     },
     {
-      "print_model_id": 286,
-      "model_name": "#01",
-      "image_url": "media/0617c161-4929-4436-9493-4626262753b0-bed435d5d40a.jpg",
-      "on_hand": 0,
-      "card_id": 138,
-      "card_name": "Nico Robin",
-      "card_edition": "EB05",
-      "tcg": "one_piece",
-      "card_type": "leader",
-      "units_sold": 1
-    },
-    {
       "print_model_id": 66,
       "model_name": "#01",
       "image_url": "media/50aba770-ea89-4de9-b129-8701cbf5021d-6bf4add6d3c9.jpg",
@@ -1483,6 +1471,18 @@
       "card_id": 49,
       "card_name": "Nico Robin",
       "card_edition": "OP09",
+      "tcg": "one_piece",
+      "card_type": "leader",
+      "units_sold": 1
+    },
+    {
+      "print_model_id": 286,
+      "model_name": "#01",
+      "image_url": "media/0617c161-4929-4436-9493-4626262753b0-bed435d5d40a.jpg",
+      "on_hand": 0,
+      "card_id": 138,
+      "card_name": "Nico Robin",
+      "card_edition": "EB05",
       "tcg": "one_piece",
       "card_type": "leader",
       "units_sold": 1
@@ -1524,6 +1524,18 @@
       "units_sold": 4
     },
     {
+      "print_model_id": 374,
+      "model_name": "#03",
+      "image_url": "media/ae26dab3-dc41-4dae-893a-be3257d424c7-ee8fc719fc8d.jpg",
+      "on_hand": 0,
+      "card_id": 138,
+      "card_name": "Nico Robin",
+      "card_edition": "EB05",
+      "tcg": "one_piece",
+      "card_type": "leader",
+      "units_sold": 1
+    },
+    {
       "print_model_id": 257,
       "model_name": "#04",
       "image_url": "media/d71e9e29-c356-4e11-a9a6-87888875d518-851b9d498bf9.jpg",
@@ -1560,18 +1572,6 @@
       "units_sold": 1
     },
     {
-      "print_model_id": 296,
-      "model_name": "#01",
-      "image_url": "media/07cc76b0-a539-4367-a737-3d4cdadb08c8-4bb337fed0af.jpg",
-      "on_hand": 0,
-      "card_id": 58,
-      "card_name": "Portgas.D.Ace",
-      "card_edition": "OP13",
-      "tcg": "one_piece",
-      "card_type": "leader",
-      "units_sold": 0
-    },
-    {
       "print_model_id": 94,
       "model_name": "#01",
       "image_url": "media/c43b0b10-46d6-4c1b-8b9f-f4b156d6aa4f-7b3997756a55.jpg",
@@ -1582,6 +1582,18 @@
       "tcg": "one_piece",
       "card_type": "leader",
       "units_sold": 2
+    },
+    {
+      "print_model_id": 296,
+      "model_name": "#01",
+      "image_url": "media/07cc76b0-a539-4367-a737-3d4cdadb08c8-4bb337fed0af.jpg",
+      "on_hand": 0,
+      "card_id": 58,
+      "card_name": "Portgas.D.Ace",
+      "card_edition": "OP13",
+      "tcg": "one_piece",
+      "card_type": "leader",
+      "units_sold": 0
     },
     {
       "print_model_id": 355,
@@ -1899,13 +1911,13 @@
       "print_model_id": 323,
       "model_name": "#03",
       "image_url": "media/7811297f-9fcc-4236-a4f2-a1c4797b2d18-ef07612cb0a2.jpg",
-      "on_hand": 1,
+      "on_hand": 0,
       "card_id": 102,
       "card_name": "Saint Gunko",
       "card_edition": "OP18",
       "tcg": "one_piece",
       "card_type": "leader",
-      "units_sold": 2
+      "units_sold": 3
     },
     {
       "print_model_id": 331,
@@ -2004,18 +2016,6 @@
       "units_sold": 1
     },
     {
-      "print_model_id": 190,
-      "model_name": "#02",
-      "image_url": "media/8d049d43-1817-414b-97eb-e022d5627e6b-2d2ada92dc5a.jpg",
-      "on_hand": 0,
-      "card_id": 75,
-      "card_name": "Shanks",
-      "card_edition": "OP17",
-      "tcg": "one_piece",
-      "card_type": "leader",
-      "units_sold": 2
-    },
-    {
       "print_model_id": 86,
       "model_name": "#02",
       "image_url": "media/17c7297d-2426-44e8-ae94-c0f6e73c6459-546788a4ed9e.jpg",
@@ -2023,6 +2023,18 @@
       "card_id": 55,
       "card_name": "Shanks",
       "card_edition": "OP09",
+      "tcg": "one_piece",
+      "card_type": "leader",
+      "units_sold": 2
+    },
+    {
+      "print_model_id": 190,
+      "model_name": "#02",
+      "image_url": "media/8d049d43-1817-414b-97eb-e022d5627e6b-2d2ada92dc5a.jpg",
+      "on_hand": 0,
+      "card_id": 75,
+      "card_name": "Shanks",
+      "card_edition": "OP17",
       "tcg": "one_piece",
       "card_type": "leader",
       "units_sold": 2
@@ -2196,18 +2208,6 @@
       "units_sold": 0
     },
     {
-      "print_model_id": 37,
-      "model_name": "#01",
-      "image_url": "media/686de7eb-6adf-419f-abc2-a2fecfe5ba9a-d0019a59028a.jpg",
-      "on_hand": 0,
-      "card_id": 1,
-      "card_name": "Yamato",
-      "card_edition": "OP16",
-      "tcg": "one_piece",
-      "card_type": "leader",
-      "units_sold": 4
-    },
-    {
       "print_model_id": 295,
       "model_name": "#01",
       "image_url": "media/db8c52f9-e1a4-4f91-9bf3-e9d239925849-18b205696a06.jpg",
@@ -2218,6 +2218,18 @@
       "tcg": "one_piece",
       "card_type": "leader",
       "units_sold": 1
+    },
+    {
+      "print_model_id": 37,
+      "model_name": "#01",
+      "image_url": "media/686de7eb-6adf-419f-abc2-a2fecfe5ba9a-d0019a59028a.jpg",
+      "on_hand": 0,
+      "card_id": 1,
+      "card_name": "Yamato",
+      "card_edition": "OP16",
+      "tcg": "one_piece",
+      "card_type": "leader",
+      "units_sold": 4
     },
     {
       "print_model_id": 80,
@@ -2472,6 +2484,18 @@
       "units_sold": 0
     },
     {
+      "print_model_id": 372,
+      "model_name": "#01",
+      "image_url": "media/a294a94c-1830-4495-be52-33ae01bafcf9-a396f6dd3f67.jpg",
+      "on_hand": 0,
+      "card_id": 166,
+      "card_name": "Evelynn",
+      "card_edition": null,
+      "tcg": "riftbound",
+      "card_type": "legend",
+      "units_sold": 1
+    },
+    {
       "print_model_id": 339,
       "model_name": "#01",
       "image_url": "media/fc867a6a-89d3-482d-a3b1-a5ce1dc29882-ac6978c1d923.jpg",
@@ -2490,6 +2514,18 @@
       "on_hand": 0,
       "card_id": 153,
       "card_name": "Ezreal",
+      "card_edition": null,
+      "tcg": "riftbound",
+      "card_type": "legend",
+      "units_sold": 1
+    },
+    {
+      "print_model_id": 373,
+      "model_name": "#01",
+      "image_url": "media/3b499412-ed0e-498d-af18-4df1b5a8ffe8-1aa0898082ad.jpg",
+      "on_hand": 0,
+      "card_id": 167,
+      "card_name": "Ivern",
       "card_edition": null,
       "tcg": "riftbound",
       "card_type": "legend",
